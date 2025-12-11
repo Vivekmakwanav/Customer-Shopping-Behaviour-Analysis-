@@ -52,6 +52,8 @@ Repeat buyers & subscription likelihood
 Revenue contribution by age group
 
 ✔ Power BI Dashboard
+<img width="1228" height="672" alt="Screenshot 2025-12-11 104349" src="https://github.com/user-attachments/assets/c0b1ab5a-5c3b-4f00-a0e7-a4689c99ea28" />
+
 Interactive visualizations include:
 Sales KPIs
 Category & product performance
@@ -75,3 +77,11 @@ Target high-value segments (ages 25–34, loyal customers)
 Optimize discount strategy to reduce unnecessary markdowns
 Promote high-rated and high-demand products
 Implement a loyalty rewards program to strengthen retention
+
+🚀 Conclusion
+This project demonstrates complete data analytics workflow including data cleaning, SQL analysis, visualization, and business recommendations.
+It showcases your ability to work with real-world datasets, generate insights, and present findings using professional tools.
+
+🤝 Author
+Vivek Makwana
+Data Analyst | SQL • Python • Power BI
