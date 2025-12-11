@@ -1,3 +1,11 @@
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![Language](https://img.shields.io/badge/Python-3.10-blue)
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL-336791)
+![PowerBI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811)
+![Data Analysis](https://img.shields.io/badge/Focus-Data%20Analytics-blueviolet)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+
 📊 Customer Shopping Behavior Analysis
 End-to-End Data Analytics Project using SQL, Python, and Power BI
 📌 Project Overview
